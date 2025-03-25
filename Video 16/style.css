@@ -1,0 +1,19 @@
+audio{
+    border: 2px solid black;
+}
+
+video{
+    border: 2px solid black;
+}
+
+h1, h2 {
+    color: #2980b9;  /* Medium blue for headings */
+}
+
+p {
+    color: #000000;  /* Black for text */
+}
+
+body {
+    background-color: #f4f4f4;  /* Light gray */
+}
